@@ -1,3 +1,3 @@
-module code.zoho.com/zgoutils
+module code.zoho.com/zcgoutils
 
-go 1.20
+go 1.21.0
